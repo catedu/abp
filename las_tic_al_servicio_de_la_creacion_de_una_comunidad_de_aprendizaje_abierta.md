@@ -1,7 +1,7 @@
 
 # Las TIC al servicio de la creación de una comunidad de aprendizaje abierta
 
-![](img/706f727461cc8174696c6573.jpg)
+![](https://github.com/catedu/abp/blob/master/img/706f727461cc8174696c6573.jpg)
 
 Imagen: [Môsieur J.](http://www.flickr.com/photos/jblndl/2456767724/in/faves-turningturning/) con licencia CC by 2.0
 

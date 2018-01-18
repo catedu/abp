@@ -10,7 +10,7 @@ El Aprendizaje basado en Proyectos permite, por sus características genuinas, p
 
  
 
-![](img/voice.jpg)
+![](https://github.com/catedu/abp/blob/master/img/voice.jpg)
 
 Imagen: [JosephGilbert.org](http://www.flickr.com/photos/ocs_camp/2171492103/) con licencia CC by-nc-sa 20
 

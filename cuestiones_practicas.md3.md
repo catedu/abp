@@ -11,6 +11,6 @@ Además de las cuestiones ya mencionadas en relación con el aprendizaje coopera
 
  
 
-![](img/ninos_felices.jpg)
+![](https://github.com/catedu/abp/blob/master/img/ninos_felices.jpg)
 
 Imagen: [Lighttruth](http://www.flickr.com/photos/58648496@N02/5380522396/) con licencia CC by-nc 2.0

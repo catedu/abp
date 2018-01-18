@@ -5,7 +5,7 @@ El Aprendizaje Basado en Proyectos se puede poner en funcionamiento en cualquier
 
 Aprender a través de proyectos en Educación Secundaria y Bachillerato no sólo representa una opción eficaz para la adquisición de conocimientos sino también para la socialización del alumnado, para la integración del currículum y para la atención a la diversidad en contextos complejos. Veamos algunos ejemplos de proyectos. En esta sección puedes conocer algunas prácticas de referencia en Educación Secundaria. ¿Empezamos?
 
-![](img/Secundaria.jpg)
+![](https://github.com/catedu/abp/blob/master/img/Secundaria.jpg)
 
 ## Proyectos transversales
 

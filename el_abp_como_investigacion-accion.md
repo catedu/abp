@@ -25,7 +25,7 @@ El [proceso de investigación-acción](http://cvc.cervantes.es/ensenanza/bibliot
 - Observación
 - Reflexión-evaluación
 
-![](img/696e7665737469676163696fcc816e2d616363696fcc816e.jpg)
+![](https://github.com/catedu/abp/blob/master/img/696e7665737469676163696fcc816e2d616363696fcc816e.jpg)
 
 Imagen: [Old Shoe Woman](http://www.flickr.com/photos/83955435@N00/1472422325) con licencia by-nc-sa 2.0
 

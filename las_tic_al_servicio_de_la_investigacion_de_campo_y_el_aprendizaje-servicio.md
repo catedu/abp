@@ -3,7 +3,7 @@
 
 Investigar en el aula no es ninguna novedad; ya lo hacíamos antes de la llegada de las TIC, como podemos ver en la experiencia de Enrique Martínez-Salanova de [investigación con el periódico](http://www.uhu.es/cine.educacion/periodico/5investigarperiodico.htm) (1999). Sin embargo, las TIC facilitan y multiplican las posibilidades de investigación y aprendizaje-servicio, como demuestran los chicos y chicas que participan en los proyectos de NatureMapping: [http://naturemappingfoundation.org/natmap/projects/](http://naturemappingfoundation.org/natmap/projects/)
 
-![](img/bombilla_Warloofer.jpg)
+![](https://github.com/catedu/abp/blob/master/img/bombilla_Warloofer.jpg)
 
 Imagen: [Warloofer](http://www.flickr.com/photos/28463359@N08/4203622857) con licencia CC by 2.0
 

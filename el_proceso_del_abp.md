@@ -22,4 +22,4 @@ Para este fantástico viaje necesitaremos un completo equipaje:
 
 
 
-![](img/El_proceso_del_AbP.png)
+![](https://github.com/catedu/abp/blob/master/img/El_proceso_del_AbP.png)

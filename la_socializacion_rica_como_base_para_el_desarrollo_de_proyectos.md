@@ -22,4 +22,4 @@ En este sentido, el aprendizaje constituye una experiencia de socialización del
 
 Para ello planteamos tres movimientos que todo proyecto debe considerar: el movimiento dentro del aula, el movimiento hacia fuera del aula y el movimiento hacia dentro del aula. Cada uno de estos **movimientos** representa una estrategia metodológica que enriquecerá el proceso de socialización/aprendizaje que tenga lugar en nuestro proyecto.
 
-![](img/movimientos.jpg)
+![](https://github.com/catedu/abp/blob/master/img/movimientos.jpg)

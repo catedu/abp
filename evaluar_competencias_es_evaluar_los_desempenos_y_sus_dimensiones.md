@@ -15,7 +15,7 @@ Pero como ya explicamos, eso no siempre es fácil en el contexto escolar. Por el
 
 Imagen 3. *Ejemplos de evaluación y observación de las dimensiones de una competencia (desempeño)*
 
-![](img/Imagen_5_B3.jpg)
+![](https://github.com/catedu/abp/blob/master/img/Imagen_5_B3.jpg)
 
 
 
@@ -25,4 +25,4 @@ Al realizar una evaluación de las competencias de este modo, se deben considera
 
 Imagen 4.** Las d***imensiones de una competencia*
 
-![](img/Imagen_6_B3.jpg)
+![](https://github.com/catedu/abp/blob/master/img/Imagen_6_B3.jpg)

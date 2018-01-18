@@ -1,7 +1,7 @@
 
 # La diana de evaluación
 
-![](img/Dianas_evaluacion.png)
+![](https://github.com/catedu/abp/blob/master/img/Dianas_evaluacion.png)
 
 **Imagen tomada de [Evaluar por competencias con Google Apps](http://blog.princippia.com/2014/08/evaluar-competencias-googleapps.html), Princippia**
 

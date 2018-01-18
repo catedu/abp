@@ -3,7 +3,7 @@
 
 El Aprendizaje Basado en Proyectos genera, necesariamente, que miremos fuera del aula. El entorno es un espacio de aprendizaje en el cual y con el cual los estudiantes tienen que interactuar para hacerse preguntas, tomar datos, interpretarlos e intentar comprender la realidad o, incluso, intentar mejorarla.
 
-![](img/AICLE.jpg)
+![](https://github.com/catedu/abp/blob/master/img/AICLE.jpg)
 
 Imagen: [Hadi Fooladi](http://www.flickr.com/photos/hadi_fooladi/409096822/) con licencia CC by-nc-sa 2.0
 

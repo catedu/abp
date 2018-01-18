@@ -11,7 +11,7 @@ Por eso, para cada competencia, es preciso graduar (poner en escala) los distint
 
 Gracias a una graduación de los dominios del desempeño podemos conocer en qué medida el alumno es competente en una competencia determinada. Es decir, qué carencias tiene que superar para la adquisición total de la misma y qué logros ha alcanzado ya. Esto nos permite saber el grado y/o nivel exacto de consecución  de la competencia en la que se encuentra el alumno.
 
-![](img/Imagen_7_B3.jpg)
+![](https://github.com/catedu/abp/blob/master/img/Imagen_7_B3.jpg)
 
 Las competencias han de interpretarse como un proceso graduado que admite unas ciertas asignaciones de la adquisición para cada una de las etapas de la enseñanza obligatoria. Esto implica una profundización progresiva del dominio competencial con relación a cada dimensión a tener en cuenta, hecho que comporta, según el momento y las circunstancias, destacar más los aspectos cognitivos, procedimentales o actitudinales que conjuga cada competencia.
 

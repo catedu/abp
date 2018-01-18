@@ -7,6 +7,6 @@ Imagina ahora una tarea que quieras que realicen tus estudiantes. Esta tarea sup
 
  
 
-![](img/5275cc816272696361.jpg)
+![](https://github.com/catedu/abp/blob/master/img/5275cc816272696361.jpg)
 
 Imagen: [Kath Cassidy](http://www.flickr.com/photos/57634636@N00/6366696839) con licencia CC by-nc-sa 2.0

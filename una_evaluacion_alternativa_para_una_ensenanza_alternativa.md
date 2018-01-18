@@ -9,7 +9,7 @@ Enseñanza y evaluación son **las dos caras de una misma moneda**. Entre ambas 
 
 Por ello, si nuestro estilo de enseñanza está cerca de la "instrucción directa" que describiremos en el primer módulo y nuestro estilo de evaluación consiste en un examen escrito en el cual solicitamos de nuestros estudiantes que reproduzcan el contenido que nosotros expusimos en la fase de presentación, el mensaje en relación con el estilo de aprendizaje de nuestros estudiantes es bien claro: es necesario memorizar los contenidos y ninguna otra competencia (en inglés podríamos hablar de [**21st Century Skills**](http://www.bie.org/research/21st_century_skills)) es necesaria.
 
-![](img/examen.jpg)
+![](https://github.com/catedu/abp/blob/master/img/examen.jpg)
 
 Imagen: [ccarlstead](http://www.flickr.com/photos/cristic/359572656/) con licencia CC by 2.0
 
