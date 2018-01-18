@@ -1,7 +1,7 @@
 
 # Requisitos y pasos fundamentales
 
-![](https://github.com/catedu/abp/blob/master/img/696e7665737469676163696fcc816e5f64655f63616d706f.jpg)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/696e7665737469676163696fcc816e5f64655f63616d706f.jpg)
 
 Imagen: [woodleywonderworks](http://www.flickr.com/photos/wwworks/4121373286/in/photostream/) con licencia CC by 2.0
 

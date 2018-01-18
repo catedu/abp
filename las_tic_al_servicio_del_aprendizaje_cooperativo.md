@@ -1,7 +1,7 @@
 
 # Las TIC al servicio del aprendizaje cooperativo
 
-![](https://github.com/catedu/abp/blob/master/img/padres_circulo.jpg)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/padres_circulo.jpg)
 
 Imagen: [cindiann](http://www.flickr.com/photos/23341397@N00/1732302968) con licencia by-nc 2.0
 

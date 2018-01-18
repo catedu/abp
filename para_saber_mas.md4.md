@@ -7,7 +7,7 @@ Algunas lecturas y enlaces sobre evaluación:
 - The Buck Institute for Education. [Plan the assessment](http://pbl-online.org/PlanTheAssessment/plantheassessment.html). PBL Home.
 - Centro Virtual Cervantes. [Diario de Aprendizaje](http://cvc.cervantes.es/ensenanza/biblioteca_ele/diccio_ele/diccionario/diario.htm). Instituto Cervantes.
 - [Los diez consejos principales para evaluar el aprendizaje basado en proyectos](http://www.edutopia.org/pdfs/guides/edutopia-guia-diez-consejos-para-evaluar-PBL-espanol-para-imprimir.pdf), Edutopia.
-![](https://github.com/catedu/abp/blob/master/http://cita.fundaciongsr.com/blank.gif)
+![](https://raw.githubusercontent.com/catedu/abp/master/http://cita.fundaciongsr.com/blank.gif)
 - El "[mapa de evaluación de proyectos](http://bie.org/object/document/project_assessment_map)" del BIE también te puede ayudar a visualizar tu propuesta de evaluación.
 - Propuestas sobre [evaluación](http://competenciasbasicas.es/evaluacion/) de Conecta13
 - La presentación de [Daniel Sánchez](http://twitter.com/dasava) sobre [evaluación en el PBL](http://www.slideshare.net/dasava/evaluacin-en-el-pbl-abp)

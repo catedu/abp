@@ -3,7 +3,7 @@
 
 Planificado el proyecto, llega el momento de ponerlo en funcionamiento.
 
-![](https://github.com/catedu/abp/blob/master/img/flecha.jpg)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/flecha.jpg)
 
 Imagen: [Horia Varlan](http://www.flickr.com/photos/10361931@N06/4519955517) con licencia CC by 2.0
 

@@ -14,7 +14,7 @@ Sin embargo, en relación con las TIC es interesante mantener el equilibrio entr
 
 En la siguiente infografía de [Silvina Carraud](https://twitter.com/silvinacarraud) se presentan actividades, artefactos digitales y herramientas usadas para el diseño, el desarrollo y la difusión de un proyecto, concretamente del proyecto [Impresion(antes)](https://tackk.com/proyectoimpresionantes) que podéis conocer también en[ el blog del proyecto ](https://sites.google.com/site/proyectoimpresionantes/)
 
-![](https://github.com/catedu/abp/blob/master/img/infografia-abp_con_tic.png)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/infografia-abp_con_tic.png)
 
 Esta infografía también está disponible en la red [en formato de presentación](https://docs.google.com/presentation/d/1ZsXogbprRSkrl137mV-fiHJYfOYp56o-4hT1rOaEqWc/pub?start=false&amp;loop=false&amp;delayms=3000#slide=id.g3347ea7ce_089) y se [desglosa por fases en este blog](http://pledocente.blogspot.com.es/2014/05/abpmoocintef-abriendo-el-proyecto-las.html)[ ](https://compartirintereses.wordpress.com/2014/05/02/abriendo-un-proyecto-a-las-tic-infografia/)
 

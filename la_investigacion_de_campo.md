@@ -3,7 +3,7 @@
 
 Por investigación de campo entendemos el estudio detallado de algún aspecto de la realidad en su propio entorno. Podríamos distinguir la investigación naturalista, que analiza elementos de la naturaleza, y la investigación etnográfica, que observa la vida de un grupo de individuos en su contexto.
 
-![](https://github.com/catedu/abp/blob/master/img/6e696ecc836f5f6c757061.jpg)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/6e696ecc836f5f6c757061.jpg)
 
 Imagen: [Woodleywonderworks](http://www.flickr.com/photos/wwworks/4121133646/in/photostream/) con licencia CC by 2.0
 

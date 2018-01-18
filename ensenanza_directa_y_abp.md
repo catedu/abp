@@ -22,6 +22,6 @@ Sin embargo, hay otra manera de enseñar. Imagina que el docente propone a sus e
 
 Es decir, hay maneras de enseñar que entienden que aprender no es sólo **entender** y **memorizar** sino también **buscar**, **elegir**, **discutir**, **aplicar**, **errar**, **corregir**, **ensayar**. Hay maneras de enseñar que demuestran que "aprender" puede ser una modalidad de "hacer". Y maneras de enseñar que, está demostrado científicamente, no son efectivas para que los alumnos aprendan.
 
-![](https://github.com/catedu/abp/blob/master/cono-del-aprendizaje-de-edgar-dale-1-728.jpg)
+![](https://raw.githubusercontent.com/catedu/abp/master/cono-del-aprendizaje-de-edgar-dale-1-728.jpg)
 
 **Fuente: [Cono del aprendizaje de Edgar Dale, Aida Vars](http://es.slideshare.net/aidaivars/cono-del-aprendizaje-de-edgar-dale)**

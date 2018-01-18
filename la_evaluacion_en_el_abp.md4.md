@@ -11,4 +11,4 @@ En este módulo trataremos diversas dinámicas de evaluación y podrás
 
  
 
-![](https://github.com/catedu/abp/blob/master/img/hombre_daVinci.jpg)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/hombre_daVinci.jpg)

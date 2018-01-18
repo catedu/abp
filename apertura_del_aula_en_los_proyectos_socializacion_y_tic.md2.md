@@ -11,6 +11,6 @@ En esta sección pretendemos
 
 
 
-![](https://github.com/catedu/abp/blob/master/img/exit.jpg)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/exit.jpg)
 
 Imagen: [dans le grand bleu](http://www.flickr.com/photos/danslegrandbleu/5115261756/) con licencia CC by-nc-sa 2.0

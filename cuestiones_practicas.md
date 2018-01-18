@@ -11,7 +11,7 @@ Parece una obviedad pero el diseño de la secuencia de trabajo es fundamental en
 
 La duda o la inactividad provocan problemas, así que mejor evitarlas.
 
-![](https://github.com/catedu/abp/blob/master/img/6e696ecc836f735f74656c65766973696fcc816e.jpg)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/6e696ecc836f735f74656c65766973696fcc816e.jpg)
 
 Imagen: [Woodleywoonderworks](http://www.flickr.com/photos/wwworks/5105427656/) con licencia CC by 2.0
 

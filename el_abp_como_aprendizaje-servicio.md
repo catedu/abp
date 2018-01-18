@@ -21,7 +21,7 @@ En este sentido, podemos diseñar experiencias de ABP que sean aprendizaje-servi
 
 %/accordion%
 
-![](https://github.com/catedu/abp/blob/master/img/love_formacion.jpg)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/love_formacion.jpg)
 
 Imagen: Elaboración propia
 

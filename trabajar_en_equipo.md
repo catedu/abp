@@ -1,7 +1,7 @@
 
 # Trabajar en equipo
 
-![](https://github.com/catedu/abp/blob/master/img/paper_people_hires.JPG)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/paper_people_hires.JPG)
 
 Los alumnos deben organizarse en grupos de tres o cuatro, procurando que haya diversidad de perfiles con el fin de que cada uno pueda desempeñar un rol diferente y ajustado a su estilo de aprendizaje. En el blog de Merche Martín [@merche70](https://twitter.com/merche70), creadora del blog [laclasedemerche](http://laclasedemerche.wordpress.com/), se han realizado unas fantásticas infografías sobre normas y roles en el trabajo colaborativo (aunque ella lo denomina cooperativo):
 

@@ -3,7 +3,7 @@
 
 Para realizar una investigación de campo debemos comenzar por una **fase de toma de datos** que implica tomar notas, hacer preguntas, buscar información, compartir con el grupo ciertas actividades, etc. En segundo lugar, estas observaciones deben conducir a una **interpretación** de los fenómenos observados. Así pues, se necesita una segunda fase de reflexión cooperativa, en la cual distintos observadores aporten sus visiones sobre el tema. La utilización de múltiples observadores es un elemento interesante pues nos permite reflexionar sobre la diversidad no sólo en el grupo observado sino también en el grupo observador. Finalmente, los estudiantes preparan y difunden su** informe de investigación** en el formato acordado dentro del proyecto.
 
-![](https://github.com/catedu/abp/blob/master/img/investigacion_campo.jpg)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/investigacion_campo.jpg)
 
 Imagen: Elaboración propia
 

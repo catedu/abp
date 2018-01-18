@@ -3,7 +3,7 @@
 
 El primer movimiento tiene lugar dentro del propio aula y representa el aprendizaje que se genera por la interacción de los propios estudiantes entre sí.
 
-![](https://github.com/catedu/abp/blob/master/img/workingwithcomputers.jpg)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/workingwithcomputers.jpg)
 
 Imagen: [One Laptop per Child](http://www.flickr.com/photos/olpc/2607192336/) con licencia CC by 2.0
 

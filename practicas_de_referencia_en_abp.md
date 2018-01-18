@@ -3,7 +3,7 @@
 
 Hay diversos factores que nos permiten prever si una innovación educativa va a tener éxito.
 
-![](https://github.com/catedu/abp/blob/master/img/726173676f735f696e6e6f766163696fcc816e.jpg)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/726173676f735f696e6e6f766163696fcc816e.jpg)
 
 Imagen: elaboración propia
 

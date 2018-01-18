@@ -13,11 +13,11 @@ En nuestro país, la incorporaron explícita de las** Competencias Clave** prop
 
 La normativa española, a nivel estatal, ha definido siete competencias clave o aprendizajes imprescindibles que  el alumnado debe haber adquirido al finalizar la enseñanza obligatoria. Las competencias clave, que integran tanto los aprendizajes formales incorporados a las diferentes áreas o materias del currículo, como los informales y no formales, son:
 
-![](https://github.com/catedu/abp/blob/master/img/competencias.png)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/competencias.png)
 
 El adjetivo ‘clave’ que se aplica a las competencias alude a desempeños que son determinantes para la adquisición de otros más complejos y que implican aprendizajes constantes y nuevas posibilidades de introducir creatividad e innovación en la resolución de problemas. Sin embargo, el adjetivo ‘básicas’ que se usaba junto a las tradicionales ‘destrezas’ representaba la concepción de que una vez adquiridas eran suficientes para el futuro.
 
-![](https://github.com/catedu/abp/blob/master/img/clave_basica.png)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/clave_basica.png)
 
 **De aprendizajes simples a aprendizajes complejos. De competencias básicas a Competencias Clave.**
 
@@ -32,7 +32,7 @@ Todo buen proyecto debe cumplir dos criterios fundamentales: 
 
 Para ayudar a docentes y centros educativos a integrar las competencias en la vida real del aula, el Centro Nacional de Innovación e Investigación Educativa (CNIIE), del Ministerio de Educación, Cultura y Deporte (MECD) ha elaborado recientemente una[ ](https://sede.educacion.gob.es/publiventa/detalle.action?cod=16109)**[Guía para la formación en centros sobre las competencias básicas](https://sede.educacion.gob.es/publiventa/detalle.action?cod=16109) **(2013). De acuerdo con esta guía, el procedimiento que se ha de llevar a cabo para la integración de las competencias en el quehacer diario del aula son:
 
-![](https://github.com/catedu/abp/blob/master/img/competencias4.png)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/competencias4.png)
 
 **Pasos para la integración de las competencias en el aula**
 
@@ -40,7 +40,7 @@ Para ayudar a docentes y centros educativos a integrar las competencias en la vi
 
 Siguiendo la guía del CNIIE (MECD), una tarea consiste en la elaboración de un producto final relevante que permita resolver una situación-problema real en un contexto social, personal, familiar y/o escolar, aplicando contenidos mediante el desarrollo de ejercicios y poniendo en marcha procesos mentales imprescindibles mediante el desarrollo de actividades.
 
-![](https://github.com/catedu/abp/blob/master/img/competencias5.png)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/competencias5.png)
 
 A diferencia del ejercicio y la actividad, el diseño de una tarea requiere decidir para qué se hace esa tarea, qué producto final se va a elaborar vinculado a la vida real y qué relevancia social tiene en el día a día del alumno. Así mismo, para la resolución de la misma no hay una respuesta prefijada – como ocurre con el ejercicio, que es mecánico, repetitivo y memorístico –, sino que va más allá. En la siguiente presentación puedes ver cómo encajan ejercicios, actividades y proyecto.
 

@@ -3,7 +3,7 @@
 
 David W. Johnson y Roger T. Johnson son, además de los responsables de [co-operation.org](http://www.co-operation.org/), dos de los expertos internacionales más importantes en el ámbito del aprendizaje cooperativo.
 
-![](https://github.com/catedu/abp/blob/master/img/JohnsonBros-2004.jpg)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/JohnsonBros-2004.jpg)
 
 David y Roger Johnson (Imagen: [University of Minnesota](http://www.cehd.umn.edu/research/highlights/coop-learning/))
 

@@ -3,7 +3,7 @@
 
 Acaba el proyecto y llega el momento de cerrarlo adecuadamente. Para ello se plantean una secuencia en tres fases: cierre, registro y difusión.
 
-![](https://github.com/catedu/abp/blob/master/img/start_finish.jpg)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/start_finish.jpg)
 
 Imagen: [Andrew_D_Hurley](http://www.flickr.com/photos/15717926@N04/6254409229) con licencia CC by sa 2.0
 

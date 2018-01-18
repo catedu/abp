@@ -3,7 +3,7 @@
 
 Una buena preparación previa del proyecto representa una alta probabilidad de éxito y hay tres cuestiones fundamentales previas a la puesta en marcha del proyecto: pre-diseño, búsqueda de apoyos y recursos y planificación.
 
-![](https://github.com/catedu/abp/blob/master/img/start.jpg)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/start.jpg)
 
 Imagen: [jakeandlindsay](http://www.flickr.com/photos/jakeandlindsay/5524669257/) con licencia CC by 2.0
 

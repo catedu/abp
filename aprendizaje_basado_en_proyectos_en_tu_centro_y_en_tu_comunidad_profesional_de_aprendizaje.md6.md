@@ -3,7 +3,7 @@
 
 "Pues no parece tan difícil organizar un proyecto de aprendizaje después de todo", podría pensar cualquiera que haya llegado hasta aquí. Al fin y al cabo consiste en analizar el currículo, leerlo creativamente, seleccionar una pregunta, un problema o un reto además de un producto final, decidir los pasos y cómo se hará el seguimiento y la evaluación del proyecto. ¿O hay algo más?
 
-![](https://github.com/catedu/abp/blob/master/img/6661cc8163696c.jpg)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/6661cc8163696c.jpg)
 
 Imagen: [Pete Prodoehl](http://www.flickr.com/photos/35237092540@N01/5462062551) con licencia CC by-nc-sa 2.0
 

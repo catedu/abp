@@ -13,7 +13,7 @@ En el mismo sentido, un docente o un equipo de docentes que dispongan de un PLE 
 
 %/accordion%
 
-![](https://github.com/catedu/abp/blob/master/img/PLE2.jpg)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/PLE2.jpg)
 
 Imagen: [e-aprendizaje](http://www.flickr.com/photos/49807822@N05/6305547278) con licencia CC by-nc-sa 2.0
 

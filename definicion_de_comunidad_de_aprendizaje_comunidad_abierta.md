@@ -3,7 +3,7 @@
 
 Una comunidad de aprendizaje hace referencia a un grupo de individuos con un objetivo de aprendizaje común y con una cultura compartida. Así, cuando una estructura cooperativa se organiza adecuadamente evoluciona hacia una comunidad de aprendizaje de manera natural.
 
-![](https://github.com/catedu/abp/blob/master/img/6e696ecc836f5f7269656e646f.jpg)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/6e696ecc836f5f7269656e646f.jpg)
 
 Imagen: [horizontal.integration](http://www.flickr.com/photos/ebolasmallpox/1066368855/) con licencia CC by-nc-sa 2.0
 

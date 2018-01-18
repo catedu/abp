@@ -1,7 +1,7 @@
 
 # El ABP como auto-formación
 
-![](https://github.com/catedu/abp/blob/master/img/Yo.jpg)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/Yo.jpg)
 
 Imagen: [César Poyatos](http://www.flickr.com/photos/35590362@N02/4417546581) con licencia CC by-nc-sa 2.0
 

@@ -3,7 +3,7 @@
 
 Una estructura cooperativa en el aula es aquella organización de la situación de aprendizaje que genera interacción e interdependencia entre el alumnado dentro de grupos de trabajo que persiguen un mismo objetivo.
 
-![](https://github.com/catedu/abp/blob/master/img/soccer.jpg)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/soccer.jpg)
 
 Imagen: [Woodleywonderworks](http://www.flickr.com/photos/wwworks/1384952210/) con licencia CC by 2.0
 
