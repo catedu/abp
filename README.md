@@ -8,6 +8,6 @@ Como introducción al curso te proponemos el vídeo de presentación del debate 
 
 > CC BY SA
 Este curso y sus materiales se distribuyen con licencia Creative Commons
-Con tenido creado por el Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado
+Contenido creado por el Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado
 Ministerio de Educación, Cultura y Deporte
 
