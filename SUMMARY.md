@@ -24,6 +24,8 @@ ____
         * [Definir el producto final](definir_el_producto_final.md)
         * [Estándares de aprendizaje](estandares_de_aprendizaje.md)
         * [Organización y planificación](organizacion_y_planificacion.md)
+            * [Presentaciones](presentaciones.md)
+            * [Infografías](infografias.md)
         * [Investigación](investigacion.md)
         * [Presentación del proyecto y difusión](presentacion_del_proyecto_y_difusion.md)
         * [Evaluación y reflexión sobre lo aprendido](evaluacion_y_reflexion_sobre_lo_aprendido.md)

@@ -9,4 +9,6 @@ Más adelante le dedicaremos un bloque entero de contenidos a este tema.
 
 Aquí tienes una lista de herramientas TIC de evaluación:
 
-<iframe width="600" height="122" style="display: block; margin-left: auto; margin-right: auto;" src="http://list.ly/plugin/widget?list=c2E-herramientas-de-evaluacion'" frameborder="no" scrolling="no"></iframe>
+<iframe src='https://list.ly/list/c2E/framed?embed_type=iframe&layout=gallery&per_page=25&show_list_headline=false' seamless width=700 height=2500 style='border:none' scrolling=''/>
+
+
