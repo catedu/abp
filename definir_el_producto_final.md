@@ -5,4 +5,4 @@ El ABP es una metodología que fomenta el aprender haciendo. Haciendo ¿qué? Un
 
 Aquí tienes una selección de herramientas de creación colaborativa (edición de imagen, texto y vídeo; mapas conceptuales y mentales; lluvias de idea, presentaciones; etc.):
 
-<iframe width="600" height="122" style="display: block; margin-left: auto; margin-right: auto;" src="http://list.ly/plugin/widget?list=aVv-herramientas-colaborativas-de-creacion'" frameborder="no" scrolling="no"></iframe>
+<iframe src='https://list.ly/list/aVv/framed?embed_type=iframe&layout=gallery&per_page=25' seamless width=100% height=2500 style='border:none' scrolling=''/>
