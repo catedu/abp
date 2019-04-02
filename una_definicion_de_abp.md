@@ -17,8 +17,8 @@ Y de manera más cercana dos educadores, [Daniel Sánchez](http://twitter.com/da
 
 <iframe width="640" height="400" src="https://video.thinglink.com/videos/621657661460447232" frameborder="0" allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen=""></iframe>
 
-Daniel Sánchez y Diego Ojeda mencionan el artículo "**El proyecto no es el postre, es el plato principal**" (puedes leer el artículo "[The Main Course, Not Dessert](http://www.bie.org/tools/freebies/main_course_not_dessert)" de John Larmer y John R. Mergendoller, del Buck Institute for Education 2010, 4 páginas, en inglés). Este concepto es importantísimo y básico en ABP: no es lo mismo trabajar ****con** proyectos** que trabajar ****por** proyectos**. El ABP es un plato principal rico en contenidos curriculares y en competencias clave para la sociedad del siglo XXI.
+Daniel Sánchez y Diego Ojeda mencionan el artículo "**El proyecto no es el postre, es el plato principal**" (puedes leer el artículo "[The Main Course, Not Dessert](http://files.ascd.org/pdfs/onlinelearning/webinars/webinar-handout1-10-8-2012.pdf)" de John Larmer y John R. Mergendoller, del Buck Institute for Education 2010, 4 páginas, en inglés). Este concepto es importantísimo y básico en ABP: no es lo mismo trabajar ****con** proyectos** que trabajar ****por** proyectos**. El ABP es un plato principal rico en contenidos curriculares y en competencias clave para la sociedad del siglo XXI.
 
 ## Para saber más
 
- **[The Main Course, Not Dessert](http://www.bie.org/tools/freebies/main_course_not_dessert)**, de John Larmer y John R. Mergendoller, del Buck Institute for Education 2010.
+ **[The Main Course, Not Dessert](http://files.ascd.org/pdfs/onlinelearning/webinars/webinar-handout1-10-8-2012.pdf)**, de John Larmer y John R. Mergendoller, del Buck Institute for Education 2010.

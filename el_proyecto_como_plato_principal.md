@@ -1,7 +1,7 @@
 
 # El proyecto como plato principal
 
-En el artículo "**El proyecto no es el postre, es el plato principal**" (puedes leer el artículo "[The Main Course, Not Dessert](http://www.bie.org/tools/freebies/main_course_not_dessert)" de John Larmer y John R. Mergendoller, del Buck Institute for Education 2010, 4 páginas, en inglés) se explica algo importantísimo y básico en ABP: no es lo mismo trabajar **con** proyectos** que trabajar **por** proyectos. El ABP es un plato principal rico en contenidos curriculares y en competencias clave para la sociedad del siglo XXI.
+En el artículo "**El proyecto no es el postre, es el plato principal**" (puedes leer el artículo "[The Main Course, Not Dessert](http://files.ascd.org/pdfs/onlinelearning/webinars/webinar-handout1-10-8-2012.pdf)" de John Larmer y John R. Mergendoller, del Buck Institute for Education 2010, 4 páginas, en inglés) se explica algo importantísimo y básico en ABP: no es lo mismo trabajar **con** proyectos** que trabajar **por** proyectos. El ABP es un plato principal rico en contenidos curriculares y en competencias clave para la sociedad del siglo XXI.
 
 El proyecto como plato principal del aprendizaje se caracteriza porque:
 
@@ -22,4 +22,4 @@ El aprendizaje basado en proyectos es una metodología que permite a los alumnos
 
 ## Para saber más
 
- **[The Main Course, Not Dessert](http://www.bie.org/tools/freebies/main_course_not_dessert)**, de John Larmer y John R. Mergendoller, del Buck Institute for Education 2010.
+ **[The Main Course, Not Dessert](http://files.ascd.org/pdfs/onlinelearning/webinars/webinar-handout1-10-8-2012.pdf)**, de John Larmer y John R. Mergendoller, del Buck Institute for Education 2010.
