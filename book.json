@@ -1,1 +1,22 @@
-{"plugins": ["youtube", "accordion", "edit-link", "githubcontributors"], "pluginsConfig": {"edit-link": {"base": "https://github.com/catedu/abp/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "abp"}}}
+{
+  "plugins": [
+    "youtube",
+    "accordion",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/catedu/abp/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "abp"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
+    }
+  }
+}
