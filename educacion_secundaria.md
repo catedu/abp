@@ -51,7 +51,7 @@ Viaja con nosotr@s pretende ser un lugar de encuentro donde sumemos las experien
 
 **Matemáticas y Ciencias**
 
-* [Proyectos de los estudiantes de diversificación dle IES Poeta Julián Andúgar](http://www.educacontic.es/blog/proyectos-de-los-alumnos-de-diversificacion-del-ies-poeta-julian-andugar), por Francisco Muñoz
+
 * [AstroAtocha](http://astroatocha.wikispaces.com/home), el proyecto de guía turística de Madrid tomando como referencia la Astronomía, por [Charo Fernández](http://twitter.com/yalocin)
 * A través del **Programa Profundiza**, en los últimos años se han desarrollado un buen número de proyectos del ámbito científico-tecnológico en horario extraescolar. Quizás te gustaría echar un vistazo a la web del programa: [profundiza.org](http://profundiza.org).
 
