@@ -19,6 +19,6 @@ Puedes conocer la experiencia de todo un centro trabajando en torno al Aprendiza
 
 Si quieres usar el aprendizaje cooperativo en tu clase, tus estudiantes deben aprender a aprender cooperativamente. Comienza gradualmente, persevera y no te rindas ante los primeros problemas: el resultado final será exitoso si sigues algunos sencillos consejos que veremos más adelante.
 
-En todo caso, si te interesa conocer los errores más frecuentes en el uso del aprendizaje cooperativo, puedes echarle un vistazo a este texto:[ Five common mistakes in using cooperative learning - and what to do about them](https://web.archive.org/web/20120214212041/http://tlt.suny.edu/originaldocumentation/library/cm/mistakes.htm).
+En todo caso, si te interesa conocer los errores más frecuentes en el uso del aprendizaje cooperativo, puedes echarle un vistazo a este texto:[ Fifteen common mistakes in using cooperative learning - and what to do about them](https://onlineteaching.open.suny.edu/page/15mistakes).
 
 %/accordion%

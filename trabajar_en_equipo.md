@@ -18,6 +18,6 @@ Los alumnos deben organizarse en grupos de tres o cuatro, procurando que haya di
 <ul>
 - [Rol de crítico](http://www.imageneseducativas.com/aprendizaje-cooperativo-rol-de-critico/)
 
-Las TIC extienden el tiempo y el espacio de trabajo, permitiendo colaborar a través de la Red fuera de las paredes físicas del aula. Aquí tienes una selección de herramientas TIC que facilitan la comunicación, quizá te sean de utilidad en tus proyectos:
+Las TIC extienden el tiempo y el espacio de trabajo, permitiendo colaborar a través de la Red fuera de las paredes físicas del aula. [Aquí](https://list.ly/list/aVy) tienes una selección de herramientas TIC que facilitan la comunicación, quizá te sean de utilidad en tus proyectos:
 
 <iframe src='https://list.ly/list/aVy/framed?embed_type=iframe&layout=gallery&per_page=25' seamless width=100% height=2500 style='border:none' scrolling=''/>

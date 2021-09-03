@@ -17,13 +17,13 @@ Al diseñar las preguntas guía se debe procurar que tengan las siguientes carac
 
 Desarrollar preguntas guía es complejo, porque no hay una fórmula específica a seguir. Aquí te damos algunos ejemplos y estructuras para ayudarte.
 
-**Resolver un problema: **
+**Resolver un problema:**
 
 Hay una situación del mundo real con múltiples soluciones. ¿Cómo podemos eliminar los atascos a la entrada del pueblo? ¿Cómo podemos embellecer el solar vacío en la calle del cole por 200 euros? ¿Cuál es la mejor manera de detener la gripe en nuestra escuela? Diseñar un mejor menú de almuerzo para nuestra escuela. Diseño de un puente seguro y resistente como para sustituir a uno en nuestra ciudad. 
 
 **Educativo**:
 
-El propósito del proyecto es enseñar a los demás. ¿Cómo podemos enseñar a alumnos de cursos inferiores sobre insectos útiles? Crear una campaña para enseñar a las personas mayores sobre cómo usar un iPad. ¿Qué necesitas sabel los alumnos de nuestro colegio sobre ser respetuoso?
+El propósito del proyecto es enseñar a los demás. ¿Cómo podemos enseñar a alumnos de cursos inferiores sobre insectos útiles? Crear una campaña para enseñar a las personas mayores sobre cómo usar una tablet. ¿Qué necesitas sabel los alumnos de nuestro colegio sobre ser respetuoso?
 
 **Convencer a otros: **
 

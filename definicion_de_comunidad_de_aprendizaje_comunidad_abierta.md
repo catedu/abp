@@ -23,17 +23,11 @@ En todo caso, estos agentes externos aportan al proyecto realismo y credibilidad
 
 En el CEIP San Walabonso, como vimos en el primer módulo, utilizan el Aprendizaje basado en Proyectos con una fuerte implicación de la familia.
 
-En el proyecto **Tengo una pregunta para mi abuelo/a** son los abuelos y abuelas, invitados al centro, quienes enseñan cómo era la vida durante su infancia y reflexionan acerca de las diferencias entre ayer y hoy.
-
-<iframe src="http://player.vimeo.com/video/17676467" frameborder="0" width="500" height="375"></iframe>
-
-[Tengo una pregunta para mi abuelo CEIP SAN WALABONSO](http://vimeo.com/17676467) from [colegiosanwalabonso](http://vimeo.com/ceipsanwalabonso) on [Vimeo](http://vimeo.com).
-
-
+En el proyecto [**Tengo una pregunta para mi abuelo/a**](https://vimeo.com/17676467) son los abuelos y abuelas, invitados al centro, quienes enseñan cómo era la vida durante su infancia y reflexionan acerca de las diferencias entre ayer y hoy.
 
 En una segunda experiencia son las abuelas quienes hablan al alumnado sobre el valor del respeto en su infancia dentro del proyecto de estudio sobre el Día de la Constitución:
 
 {% youtube %}https//www.youtube.com/watch?v=mfrf-oQ1--A?rel=0{% endyoutube %}
-Y ambas participaciones de abuelos y abuelas encajan con un proyecto educativo de centro que pretende hacer a los niños y niñas partícipes de una comunidad de aprendizaje abierta, como demuestra este [estudio de la población de Niebla](http://www.juntadeandalucia.es/averroes/sanwalabonso/uudd/migracion/index.htm) que ofrecen en la red.
+Y ambas participaciones de abuelos y abuelas encajan con un proyecto educativo de centro que pretende hacer a los niños y niñas partícipes de una comunidad de aprendizaje abierta.
 
 %/accordion%

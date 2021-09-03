@@ -42,12 +42,12 @@ Siguiendo la guía del CNIIE (MECD), una tarea consiste en la elaboración de un
 
 ![](https://raw.githubusercontent.com/catedu/abp/master/img/competencias5.png)
 
-A diferencia del ejercicio y la actividad, el diseño de una tarea requiere decidir para qué se hace esa tarea, qué producto final se va a elaborar vinculado a la vida real y qué relevancia social tiene en el día a día del alumno. Así mismo, para la resolución de la misma no hay una respuesta prefijada – como ocurre con el ejercicio, que es mecánico, repetitivo y memorístico –, sino que va más allá. En la siguiente presentación puedes ver cómo encajan ejercicios, actividades y proyecto.
+A diferencia del ejercicio y la actividad, el diseño de una tarea requiere decidir para qué se hace esa tarea, qué producto final se va a elaborar vinculado a la vida real y qué relevancia social tiene en el día a día del alumno. Así mismo, para la resolución de la misma no hay una respuesta prefijada – como ocurre con el ejercicio, que es mecánico, repetitivo y memorístico –, sino que va más allá. En la siguiente presentación puedes ver cómo encajan ejercicios, actividades y proyecto. Si lees en pdf, clica en [este enlace](https://slideshare.net/slideshow/embed_code/44695702).
 
-<iframe width="425" height="355" style="border: 1px solid #cccccc; margin-bottom: 5px; max-width: 100%; display: block; margin-left: auto; margin-right: auto;" src="//www.slideshare.net/slideshow/embed_code/44695702" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen=""></iframe>
+<iframe width="425" height="355" style="border: 1px solid #cccccc; margin-bottom: 5px; max-width: 100%; display: block; margin-left: auto; margin-right: auto;" src="//www.slideshare.net/slideshow/embed_code/44695702" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="" title="Las unidades formativas mediante metodologías activas"></iframe>
 
-Como ves, un proyecto encaja perfectamente en la definición de **tarea integrada** de la LOMCE. En la siguiente presentación puedes ver unas pautas para diseñarlo de forma que cumpla con los dos criterios fundamentales del ABP:
+Como ves, un proyecto encaja perfectamente en la definición de **tarea integrada** de la LOMCE. En la siguiente presentación puedes ver unas pautas para diseñarlo de forma que cumpla con los dos criterios fundamentales del ABP (Si lees en pdf, clica en [este enlace](https://slideshare.net/slideshow/embed_code/44258426)):
 
-<iframe width="425" height="355" style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/44258426" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen=""></iframe>
+<iframe width="425" height="355" style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/44258426" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="" title="Diseño de tareas integradas"></iframe>
 
 

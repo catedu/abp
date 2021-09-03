@@ -15,7 +15,7 @@ Así mismo, hay una serie de actividades que habrá que realizar a lo largo del
 
 Para este fantástico viaje necesitaremos un completo equipaje:
 
-- [herramientas TIC](http://list.ly/list/Zxa-herramientas-tic-para-abp) para desarrollar las capacidades necesarias en el siglo XXI: crear, evaluar, analizar, colaborar...
+- herramientas TIC para desarrollar las capacidades necesarias en el siglo XXI: crear, evaluar, analizar, colaborar...
 - recursos de aprendizaje, es decir, información que nos lleve a adquirir conocimiento
 - un guía para hacer ese proceso (es decir, tú, el docente)
 - conciencia de que el aprendizaje basado en proyectos no es el postre de las clases magistrales, sino una metodología en la que mientras se hace, se aprende. Así pues, el desarrollo del proyecto debe implicar un diseño muy cuidadoso centrado en los estándares de aprendizaje y las competencias a adquirir.

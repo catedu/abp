@@ -5,6 +5,6 @@ Dentro de un proyecto se debe dar autonomía a los alumnos (voz y voto que decí
 
 Ahora bien, ¿cómo guardar lo encontrado en la Red?¿cómo participar colaborativamente en una investigación?
 
-Aquí tienes una lista de herramientas TIC que pueden ayudarte en la gestión colaborativa de recursos de aprendizaje: marcadores (favoritos) sociales, que permiten "guardar" enlaces interesantes entre varios participantes de un grupo, como Symbaloo, Pinterest, Diigo, Listly. También servicios donde colgar ficheros, vídeos, fotos, para que todos los miembros del equipo de trabajo los tengan disponibles, como Mega, Dropbox, etc.
+[Aquí](https://list.ly/list/aVt-herramientas-para-la-gestion-de-recursos) tienes una lista de herramientas TIC que pueden ayudarte en la gestión colaborativa de recursos de aprendizaje: marcadores (favoritos) sociales, que permiten "guardar" enlaces interesantes entre varios participantes de un grupo, como Symbaloo, Pinterest, Diigo, Listly. También servicios donde colgar ficheros, vídeos, fotos, para que todos los miembros del equipo de trabajo los tengan disponibles, como Mega, Dropbox, etc.
 
 <iframe width="600" height="122" style="display: block; margin-left: auto; margin-right: auto;" src="http://list.ly/plugin/widget?list=aVt-herramientas-para-la-gestion-de-recursos'" frameborder="no" scrolling="no"></iframe>

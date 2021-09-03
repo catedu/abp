@@ -33,12 +33,8 @@ Viaja con nosotr@s pretende ser un lugar de encuentro donde sumemos las experien
 **Lengua castellana y literatura**
 
 * [REDsidencia de Estudiantes](https://sites.google.com/site/redsidenciadeestudiantes/), un proyecto coordinado por [Nacho Gallardo](http://twitter.com/profenacho08) junto a su alumnado de Bachillerato
-* [Homenaje a Miguel Hernández: la trastienda de un proyecto colaborativo](http://www.educacontic.es/blog/homenaje-miguel-hernandez-la-trastienda-de-un-proyecto-colaborativo), por [Bloggeando](http://irmadel.wordpress.com/)
+* [Homenaje a Miguel Hernández: la trastienda de un proyecto colaborativo](https://sites.google.com/site/homenajeamiguelhernandez/), por [Bloggeando](http://irmadel.wordpress.com/)
 * [Callejeros literarios](https://sites.google.com/site/callejerosliterarios/), el proyecto de [A pie de aula](http://apiedeaula.blogspot.com/), [Bloggeando](http://irmadel.wordpress.com/), [Repaso de lengua](http://repasodelengua.blogspot.com/) y [TresTizas](http://trestizas.wordpress.com/)
-
-**Ciencias Sociales**
-
-* [Billete de ida y vuelta](http://billeteidayvuelta.wikispaces.com/home), de Ana Basterra \(y [la reflexión que lo sustenta](http://comenzamos.wikispaces.com/home)\)
 
 **Educación plástica y visual**
 
@@ -47,12 +43,12 @@ Viaja con nosotr@s pretende ser un lugar de encuentro donde sumemos las experien
 
 **Educación musical**
 
-* [Mujeres en la música clásica](http://docentes.leer.es/wp-content/uploads/web/index.htm) y [Turismo musical](http://leer.es/recursos/navegar/detalle/-/asset_publisher/3fAFCQK7mwkO/content/turismo-musical-auditorios-y-teatros-de-opera-de-espana-andrea-giraldez;jsessionid=D1D940D3E9ACCFA8B887226DF5F848E0), dos proyectos de [Andrea Giráldez](http://www.bivem.net/)
+* [Mujeres en la música clásica](https://leer.es/recursos/navegar/detalle/-/asset_publisher/3fAFCQK7mwkO/content/mujeres-en-la-musica-clasica-ensenar-a-elaborar-carteles-para-una-campana-publicitaria-andrea-giraldez?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3fAFCQK7mwkO_redirect=https%3A%2F%2Fleer.es%3A443%2Frecursos%2Fnavegar%2Fdetalle%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3fAFCQK7mwkO%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3DLEER_columna70%26p_p_col_count%3D1%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3fAFCQK7mwkO_cur%3D0%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3fAFCQK7mwkO_delta%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3fAFCQK7mwkO_assetEntryId%3D307220) y [Turismo musical](http://leer.es/recursos/navegar/detalle/-/asset_publisher/3fAFCQK7mwkO/content/turismo-musical-auditorios-y-teatros-de-opera-de-espana-andrea-giraldez;jsessionid=D1D940D3E9ACCFA8B887226DF5F848E0), dos proyectos de [Andrea Giráldez](http://recursostic.educacion.es/artes/rem/web/index.php/es/dossier-educativo/itemlist/user/84-andreagir%C3%A1ldez)
 
 **Matemáticas y Ciencias**
 
 
-* [AstroAtocha](http://astroatocha.wikispaces.com/home), el proyecto de guía turística de Madrid tomando como referencia la Astronomía, por [Charo Fernández](http://twitter.com/yalocin)
+* [AstroAtocha](https://es.slideshare.net/albonubes/astroatocha-8562526), el proyecto de guía turística de Madrid tomando como referencia la Astronomía, por [Charo Fernández](http://twitter.com/yalocin)
 * A través del **Programa Profundiza**, en los últimos años se han desarrollado un buen número de proyectos del ámbito científico-tecnológico en horario extraescolar. Quizás te gustaría echar un vistazo a la web del programa: [profundiza.org](http://profundiza.org).
 
 
