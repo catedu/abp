@@ -13,13 +13,15 @@ De esta forma los alumnos, previo a otro tipo de evaluación, podrán realizar u
 
 [Leer más y descargar ficha](http://www.orientacionandujar.es/2014/02/19/organizador-grafico-para-la-rutina-de-pensamiento-el-semaforo/), en [Orientación Andújar](http://www.orientacionandujar.es/).
 
-[Descargar plantilla](RP_organizador_semaforo_itic.pdf) de [Taller de evaluación](http://yalocin.wix.com/evaluacion) de Charo Fernández y Jorge Gómez.
+[Descargar plantilla](https://raw.githubusercontent.com/catedu/abp/master/img/RP_organizador_semaforo_itic.pdf) de [Taller de evaluación](http://yalocin.wix.com/evaluacion) de Charo Fernández y Jorge Gómez.
 
 ## Veo, pienso, me pregunto
 
 Se empieza diciendo a los alumnos que observen una imagen y respondan a la pregunta: ¿qué es lo que ves? Deben razonar sus interpretaciones. El profesor deberá preguntarles qué es lo que piensan y qué se preguntan sobre la imagen que están viendo.Es conveniente que los alumnos comiencen siempre las frases con "veo...", "pienso...", "me pregunto...". Esta rutina se trabaja bien en grupo, aunque a veces es bueno que se trabaje primero de manera individual y posteriormente se realice una puesta en común en pequeño y en gran grupo.
 
-[Más información](http://checkthis.com/veopienso)
+#### Más información 
+
+{% youtube %}https://www.youtube.com/watch?v=bdl_4TNTxxQ{% endyoutube %}
 
 ## 3, 2, 1 Puente
 
@@ -30,7 +32,7 @@ Los alumnos realizarán esta rutina antes y después de la lección siguiendo es
 - Al final de la actividad, los alumnos vuelven a completar la tabla con el 3,2,1.
 - En parejas, comparten su pensamiento inicial y el nuevo, explicando cómo y por qué su pensamiento ha cambiado.
 
-[Más información](http://checkthis.com/321puente)
+[Más información](http://formacion.intef.es/mod/forum/view.php?id=23923)
 
 ## Más rutinas de pensamiento
 

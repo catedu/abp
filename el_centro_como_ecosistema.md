@@ -18,7 +18,5 @@ En este sentido y de manera general, un centro educativo que tenga una trayector
 
 En el siguiente vídeo puedes ver a David Mota, jefe de estudios del centro donde se desarrolló el [Proyecto FGL,](http://lorcaenlosmilagros.blogspot.com.es/) reflexionando y valorando el proyecto; sus palabras pueden servir de ejemplificación de esta idea del **centro como ecosistema** al servicio de un proyecto de aprendizaje:
 
- 
-
 {% youtube %}https//www.youtube.com/watch?v=ZWo3sliOBno{% endyoutube %}
-[Vídeo (YouTube) - Jefe de estudios (Leer.es) - (02:13)](https://www.youtube.com/watch?v=ZWo3sliOBno)<o:p></o:p>
+

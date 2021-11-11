@@ -17,13 +17,13 @@ En el mismo sentido, un docente o un equipo de docentes que dispongan de un PLE 
 
 Imagen: [e-aprendizaje](http://www.flickr.com/photos/49807822@N05/6305547278) con licencia CC by-nc-sa 2.0
 
-Para comprender la importancia hoy de tu PLE para la gestión de proyectos de aprendizaje te animamos a que visites, entre otros, el [**Curso para la gestión de tareas y proyectos** de Víctor Cuevas para Aulablog](https://sites.google.com/a/iniciafp.es/gestiontareasyproyectos/). En este curso Víctor Cuevas parte de los principios del GTD y desarrolla un interesante listado de elementos que podrían conformar un PLE adecuado para el Aprendizaje basado en Proyectos:
+Para comprender la importancia hoy de tu PLE para la gestión de proyectos de aprendizaje te animamos a que visites, entre otros, el [**Curso para la gestión de tareas y proyectos** de Víctor Cuevas](https://sites.google.com/site/metodologiagtd/curso). En este curso Víctor Cuevas parte de los principios del GTD y desarrolla un interesante listado de elementos que podrían conformar un PLE adecuado para el Aprendizaje basado en Proyectos:
 
-- [Wunderlist](https://sites.google.com/a/iniciafp.es/gestiontareasyproyectos/curso/tema3)
-- [Remember the milk](https://sites.google.com/a/iniciafp.es/gestiontareasyproyectos/curso/tema-4)
-- [Gmail y el complemento ActiveInbox](https://sites.google.com/a/iniciafp.es/gestiontareasyproyectos/curso/tema-5)
-- [Evernote](https://sites.google.com/a/iniciafp.es/gestiontareasyproyectos/curso/tema-6)
-- [Skitch](https://sites.google.com/a/iniciafp.es/gestiontareasyproyectos/curso/tema-7-1)
+- [Wunderlist](https://sites.google.com/site/metodologiagtd/curso/tema3)
+- [Remember the milk](https://sites.google.com/site/metodologiagtd/curso/tema-4)
+- [Gmail y el complemento ActiveInbox](https://sites.google.com/site/metodologiagtd/curso/tema-5)
+- [Evernote](https://sites.google.com/site/metodologiagtd/curso/tema-6)
+- [Skitch](https://sites.google.com/site/metodologiagtd/curso/tema-7-1)
 
 Por otro lado, también existen herramientas específicas para la gestión de proyectos y de Aprendizaje basado en Proyectos, muchas de ellas [abiertas y gratuitas](http://wwwhatsnew.com/2012/01/22/aplicaciones-open-source-para-la-gestion-de-proyectos/). En la caja de herramientas del curso puedes ver multitud de herramientas online y gratuitas para la gestión de proyectos, échale un vistazo.
 

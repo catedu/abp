@@ -7,8 +7,6 @@ Todo proyecto debe contemplar una fase de exposición pública del producto fina
 
 Podemos difundir nuestro proyecto en grupos y comunidades especializadas en ABP por ejemplo:
 
-Comunidades de Google Plus: [https://plus.google.com/communities/108029826885482786597](https://plus.google.com/communities/108029826885482786597)
-
 Grupos Diigo:
 
 - [Project Based Learning](https://groups.diigo.com/group/projectbasedlearning): [URL:[https://groups.diigo.com/group/projectbasedlearning](https://groups.diigo.com/group/projectbasedlearning)]
@@ -24,7 +22,7 @@ A continuación hemos seleccionado un par de proyectos colaborativos que utiliza
 
 <iframe width="425" height="355" src="//www.slideshare.net/slideshow/embed_code/34473791" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen=""></iframe>
 
-
+[Enlace a la presentación](https://www.slideshare.net/pazgonzalo2/integrar-redes-sociales-en-el-aula)
 
 ## Reflexión
 

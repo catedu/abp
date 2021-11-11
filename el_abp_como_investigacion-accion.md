@@ -9,7 +9,7 @@ La investigación-acción es una de las vías más estimulantes de desarrollo pr
 
 %accordion%Retroalimentación%accordion%
 
-La [investigación-acción](http://es.wikipedia.org/wiki/Investigaci%C3%B3n-acci%C3%B3n) es una línea de investigación educativa con una amplia tradición nacional e internacional, como demuestran entre otros la [web de recursos de F. Javier Murillo](http://www.uam.es/personal_pdi/stmaria/jmurillo/recursos/inv-accion.htm).
+La [investigación-acción](http://es.wikipedia.org/wiki/Investigaci%C3%B3n-acci%C3%B3n) es una línea de investigación educativa con una amplia tradición nacional e internacional, como demuestran entre otros la [web de recursos de F. Javier Murillo](https://www.fjaviermurillo.es/recursos/).
 
 La clave de esta modalidad investigadora es plantear una **acción** en respuesta a un problema y plantear su puesta en práctica con el rigor propio de la investigación científica.
 

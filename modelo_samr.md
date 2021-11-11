@@ -15,11 +15,11 @@ Se basa en un modelo de dos capas y cuatro niveles:
  * **Modification**: A través de las tecnologías se consigue una redifinición significativamente mejor de las tareas. Se produce un cambio metodológico basado en las TIC. A través de aplicaciones sencillas nuestros alumnos pueden crear nuevos contenidos y presentar la información integrando distintas tecnologías.
  * **Redefinition**: Se crean nuevos ambientes de aprendizaje, actividades, etc. que mejoran la calidad educativa y que sin su utilización serían impensables. Nuestros alumnos crean materiales audiovisuales que recogen lo que han aprendido como proyecto de trabajo.
 
-![](https://raw.githubusercontent.com/catedu/abp/master/http://recursostic.educacion.es/observatorio/web/images/upload/cesar/modelos/image008.jpg)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/image008.jpg)
 
 En el blog de Puentedura podemos [encontrar](http://www.hippasus.com/rrpweblog/archives/2012/08/14/SAMR_SixExemplars.pdf) ejemplos de actividades desarrolladas para distintas áreas y organizadas en los distintos niveles de su modelo.
 
-![](https://raw.githubusercontent.com/catedu/abp/master/http://recursostic.educacion.es/observatorio/web/images/upload/cesar/modelos/image009.jpg)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/image009.jpg)
 
 Para poder movernos en estos niveles e ir ascendiendo en el modelo SAMR, Puentedura propone una serie de cuestiones:
 
@@ -43,7 +43,7 @@ Para poder movernos en estos niveles e ir ascendiendo en el modelo SAMR, Puented
 - ¿Estas transformaciones sólo se realizan si aplico las nuevas tecnologías?
 - ¿Cómo contribuye a mi diseño?
 
-![](https://raw.githubusercontent.com/catedu/abp/master/http://recursostic.educacion.es/observatorio/web/images/upload/cesar/modelos/image010.png)
+![](https://raw.githubusercontent.com/catedu/abp/master/img/image010.png)
 
  Fuente: [Introducción de las tecnologías en la educación - SAMR, Observatorio Tecnológico](http://recursostic.educacion.es/observatorio/web/es/cajon-de-sastre/38-cajon-de-sastre/1092-monografico-introduccion-de-las-tecnologias-en-la-educacion?start=2)
 
